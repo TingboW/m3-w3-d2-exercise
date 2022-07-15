@@ -15,8 +15,8 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0",
-    "node-sass": "^5.0.0",
-    "onchange": "^3.3.0",
+    "node-sass": "^7.0.1",
+    "onchange": "^7.1.0",
     "parallelshell": "^3.0.1"
   },
   "dependencies": {
